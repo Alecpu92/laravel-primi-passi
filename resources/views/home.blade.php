@@ -16,13 +16,11 @@
 
         <style>
             body {
-                
                 font-family: 'Nunito', sans-serif;
-                
             }
         </style>
     </head>
-    <body class="antialiased">
+    <body>
 
         <div>Hello World</div>
         
